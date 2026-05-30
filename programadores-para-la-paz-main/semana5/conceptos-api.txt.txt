@@ -1,0 +1,10 @@
+¿Qué hace esta ruta?
+Esta ruta sirve para recibir datos que alguien envía al servidor. A diferencia de las otras que solo muestran texto 
+en la pantalla, esta agarra la información que le mandamos como un mensaje, la procesa y nos responde con un aviso 
+que dice 'Reporte recibido' para confirmar que todo llegó bien.
+
+¿Para qué podría servir en una aplicación comunitaria?
+En una aplicación para la comunidad serviría muchísimo para que la gente participe. 
+Por ejemplo:
+​Para que los vecinos envien reportes si algo ocurre en el barrio.
+Un buzon virtual para sugerencias o ideas.

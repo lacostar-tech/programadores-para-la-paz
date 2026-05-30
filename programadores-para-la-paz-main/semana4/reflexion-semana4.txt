@@ -1,0 +1,8 @@
+Es fundamental que las comunidades e iniciativas ciudadanas puedan construir sus propias herramientas tecnológicas 
+porque esto les otorga autonomía y soberanía sobre sus propios procesos. Muchas veces, el software comercial o de grandes 
+empresas no se adapta a las necesidades reales, locales o culturales de un grupo específico de personas. 
+Al dominar tecnologías web (como Express y Node.js que usamos hoy), los ciudadanos dejan de ser simples consumidores 
+pasivos y se convierten en creadores de soluciones para sus problemas comunitarios. Esto democratiza el acceso al 
+conocimiento técnico, reduce la brecha digital y permite gestionar la información de manera segura y comunitaria.
+ En conclusión, crear tecnología propia es una forma de empoderamiento social que permite resolver retos colectivos 
+ de manera eficiente, libre y adaptada al contexto real de cada territorio.

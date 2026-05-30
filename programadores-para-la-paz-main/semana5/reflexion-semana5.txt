@@ -1,0 +1,8 @@
+Las APIs son herramientas muy útiles para conectar a las personas de una comunidad de forma ordenada.
+Gracias a ellas, se pueden crear aplicaciones donde cualquiera pueda mandar un reporte o una alerta desde su celular.
+Toda esa información llega a un solo lugar en vez de quedarse perdida en mensajes de WhatsApp o grupos públicos.
+Esto ayuda a que los líderes comunitarios o los mismos vecinos puedan ver los problemas organizados por categorías.
+Por ejemplo, se podrían separar fácilmente los reportes de daños públicos, las alarmas de seguridad o las propuestas.
+Además, al estar todo conectado, el sistema puede responder automáticamente avisando que el mensaje fue recibido con éxito.
+También permite que la información importante se comparta rápido con todos los habitantes del barrio al mismo tiempo.
+En conclusión, usar APIs en la comunidad sirve para comunicarnos mejor, evitar que se pierdan los datos y trabajar en equipo.

@@ -1,0 +1,10 @@
+http://localhost:3000
+al ingresar a esta ruta, el navegador se conecta exitosamente y muestra un mensaje "servidor activo"
+
+http://localhost:3000/saludo
+Cuando se añade /saludo a la dirección, el servidor procesa esta ruta específica y responde enviando el texto 
+"Hola comunidad" al navegador.
+
+http://localhost:3000/mensaje/juan
+Esta ruta recibe un parámetro dinámico en la URL (un nombre). Al escribir por ejemplo /mensaje/Juan, 
+el servidor lee esa variable y responde de forma personalizada diciendo 'Hola Juan'.
